@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Tarek</title>
+    <link>https://tarekdief.github.io/TarekD_Portfolio/categories/testing/</link>
+    <description>Recent content in Testing on Tarek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2024 13:39:46 +0200</lastBuildDate>
+    <atom:link href="https://tarekdief.github.io/TarekD_Portfolio/categories/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AUTONMOUS 3D PRINTED UAV</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2024/05/01/autonmous-3d-printed-uav/</link>
+      <pubDate>Wed, 01 May 2024 13:39:46 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2024/05/01/autonmous-3d-printed-uav/</guid>
+      <description>Project Overview: 3D-Printed UAVs with Coordinated Flight Capabilities Step 1. Understand the Objective UAE University students developed two 3D-printed UAVs capable of coordinated figure-eight flight at altitudes up to 450 meters. The project utilized a Creality 3D printer to achieve precise and cost-effective production, showcasing an innovative approach to UAV design and manufacturing.&#xA;Step 2. Learn the Key Details As shown in this video, the UAVs are equipped with advanced tracking algorithms to enable synchronized flight, making them ideal for applications such as environmental monitoring and surveillance.</description>
+    </item>
+    <item>
+      <title>DRONE EQUIED ROBOTIC ARM</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2024/05/01/drone-equied-robotic-arm/</link>
+      <pubDate>Wed, 01 May 2024 13:39:46 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2024/05/01/drone-equied-robotic-arm/</guid>
+      <description>Project Overview: &amp;ldquo;Sure Plus&amp;rdquo; Project - 3D Printed Drone with Autonomous Capabilities Step 1. Understand the Objective The &amp;ldquo;Sure Plus&amp;rdquo; project from UAE University is a six-month program focused on developing a unique drone 3D printed in one piece to enhance strength and simplify the design. The drone is equipped with a robotic arm to perform autonomous tasks, demonstrating its ability to execute missions independently.&#xA;Step 2. Learn the Key Details This innovative technology, showcased in this video, represents a significant advancement in drone capabilities and applications.</description>
+    </item>
+    <item>
+      <title>FIXED WING WING</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2024/01/01/fixed-wing-wing/</link>
+      <pubDate>Mon, 01 Jan 2024 13:47:08 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2024/01/01/fixed-wing-wing/</guid>
+      <description>Project Overview: Flying a 2.5-Meter Glider in Windy Conditions Step 1. Understand the Objective Flying a 2.5-meter glider in windy conditions presents a unique challenge and opportunity for both the pilot and the aircraft. The larger wingspan of this glider provides enhanced stability and control, crucial when navigating the unpredictability of strong winds.&#xA;Step 2. Learn the Key Details As demonstrated in this video, piloting a glider in gusty conditions requires skill and quick reflexes to maintain smooth flight.</description>
+    </item>
+    <item>
+      <title>Last mile delivery</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/07/03/last-mile-delivery-mcmaster-canada/</link>
+      <pubDate>Mon, 03 Jul 2023 13:39:46 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/07/03/last-mile-delivery-mcmaster-canada/</guid>
+      <description>Project Overview: UAV-Based Last-Mile Parcel Delivery Step 1. Understand the Objective The project aims to explore the use of UAVs (drones) for last-mile parcel delivery, which holds the potential to significantly reduce greenhouse gas (GHG) emissions. This solution is becoming increasingly relevant with the rise of e-commerce and the growing demand for same-day delivery.&#xA;Step 2. Learn the Key Details As highlighted in this LinkedIn post, UAV-based delivery systems promise to provide an efficient, sustainable alternative to traditional delivery methods by minimizing the carbon footprint associated with transportation.</description>
+    </item>
+    <item>
+      <title>HUMAN DETECTION OCTOCOPTER</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/05/01/human-detection-octocopter/</link>
+      <pubDate>Mon, 01 May 2023 13:47:08 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/05/01/human-detection-octocopter/</guid>
+      <description>Project Overview: Human Detection Using a Thermal Camera on an Octacopter Step 1. Understand the Objective This project involved the use of a thermal camera mounted on an octacopter for human detection, showcasing an innovative and practical application of modern technology. It was undertaken by a group of undergraduate mechanical engineering students from UAE University as part of their capstone project.&#xA;Step 2. Learn the Key Details As demonstrated in this video, the project explored the effectiveness of using an unmanned aerial vehicle (UAV) equipped with thermal imaging cameras to detect human presence under various conditions.</description>
+    </item>
+    <item>
+      <title>SDG program</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/05/01/sdg-program/</link>
+      <pubDate>Mon, 01 May 2023 13:47:08 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/05/01/sdg-program/</guid>
+      <description>Project Overview: SmartBox for Sustainable Agriculture Step 1. Understand the Objective The project introduces the SmartBox, a revolutionary device filled with sensors that measure NPK (Nitrogen, Phosphorus, Potassium), moisture, pH, pressure, temperature, and altitude from agricultural crop soil. The SmartBox is designed to provide farmers with real-time data to optimize crop growth and yield.&#xA;Step 2. Learn the Key Details As featured in this LinkedIn post, the SmartBox works in tandem with a quadcopter drone to deliver precise, actionable insights directly to farmers, enhancing their ability to manage crops effectively.</description>
+    </item>
+    <item>
+      <title>AUTONMOUS DRONE-ROVER</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/05/01/autonmous-drone-rover/</link>
+      <pubDate>Mon, 01 May 2023 13:39:46 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/05/01/autonmous-drone-rover/</guid>
+      <description>Project Overview: Drone and Rover Integration for Enhanced Mobility and Versatility Step 1. Understand the Objective The project focuses on integrating a drone and a rover to overcome challenges related to yaw motion and stability issues caused by incorrect sensor readings. This integration enhances mobility across varied terrains and offers versatility for both aerial and ground operations.&#xA;Step 2. Learn the Key Details As showcased in this video, the combined drone and rover system provides significant benefits, including the ability to adapt to different scenarios and environments.</description>
+    </item>
+    <item>
+      <title>INSTRUMENTED GLOVE DRONE</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/01/15/instrumented-glove-drone/</link>
+      <pubDate>Sun, 15 Jan 2023 13:47:08 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/01/15/instrumented-glove-drone/</guid>
+      <description>Project Overview: Small-Scale Drone and Instrumented Glove for Control Actions Step 1. Understand the Objective This short-term research project aimed to improve the technical skills of undergraduate students through hands-on experience. The project consists of two main components: a small-scale drone and an instrumented glove designed to collect and analyze hand motion data.&#xA;Step 2. Learn the Key Details As demonstrated in this video, the instrumented glove is equipped with an IMU (Inertial Measurement Unit), flex-sensors, a microcontroller, and XBee communication modules.</description>
+    </item>
+    <item>
+      <title>REMOTE HEALTH MONITORING</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2021/04/01/remote-health-monitoring/</link>
+      <pubDate>Thu, 01 Apr 2021 21:29:20 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2021/04/01/remote-health-monitoring/</guid>
+      <description>Project Overview: PROTXX Wearable Sensor Technology Step 1. Understand the Objective The goal of this project is to develop user-friendly, wearable sensor technology for remote health monitoring of patients with neurological conditions. This technology aims to reduce hospital visits and COVID-19 risk by enabling remote care.&#xA;Step 2. Learn the Key Details Using technology designed by PROTXX, we will develop and validate algorithms for evaluating clinical outcomes, initially focusing on patients with Multiple Sclerosis (MS).</description>
+    </item>
+    <item>
+      <title>X-06 airplane, PDAS LTD</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2020/07/01/x-06-airplane-pdas-ltd/</link>
+      <pubDate>Wed, 01 Jul 2020 21:29:20 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2020/07/01/x-06-airplane-pdas-ltd/</guid>
+      <description>Project Overview: PD Aerospace Space Tourism Vehicle Step 1. Understand the Objective The company is developing a reusable launch vehicle for space tourism, featuring a patented combustion mode switch engine capable of dual-mode propulsion, with funding from JAXA, ANA Holdings Inc., HIS Group, Mizuho Group, and other Japanese companies.&#xA;Step 2. Learn the Key Details To achieve this, PD Aerospace is leveraging its innovative engine technology to create a sustainable and efficient vehicle for space tourism.</description>
+    </item>
+    <item>
+      <title>Kite power system</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2019/06/24/kite-power-system/</link>
+      <pubDate>Mon, 24 Jun 2019 13:50:46 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2019/06/24/kite-power-system/</guid>
+      <description>Project Overview: Kite Power System for Wind Energy Harvesting Step 1. Understand the Objective The aim of the kite power system is to demonstrate a new technology for harvesting wind energy with a significantly lower material and environmental footprint and a higher capacity factor than conventional wind turbines.&#xA;Step 2. Learn the Key Details This innovative approach, showcased in this video, explores using kites to harness wind energy more efficiently and sustainably.</description>
+    </item>
+    <item>
+      <title>SKYPULL system</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2019/06/17/skypull-system/</link>
+      <pubDate>Mon, 17 Jun 2019 13:47:08 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2019/06/17/skypull-system/</guid>
+      <description>Project Overview: Airborne Wind Energy System (AWES) Step 1. Understand the Objective The Airborne Wind Energy System (AWES) aims to generate power using fixed-wing drones that utilize wind energy efficiently. The system features a rigid-body drone that flies in a Figure-of-Eight pattern, controlled by algorithms to harvest optimal power from the lift generated by its wings.&#xA;Step 2. Learn the Key Details This innovative approach, demonstrated in this video, involves the use of drones to capture wind energy, offering a promising alternative to traditional wind turbines with potentially higher efficiency and lower environmental impact.</description>
+    </item>
+    <item>
+      <title>Quad-rotor</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2014/08/03/quad-rotor/</link>
+      <pubDate>Sun, 03 Aug 2014 13:39:46 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2014/08/03/quad-rotor/</guid>
+      <description>Project Overview: Quad-Rotor VTOL Drone Control System Step 1. Understand the Objective The quad-rotor is a widely recognized VTOL (Vertical Take-Off and Landing) drone used in various applications, such as military surveillance and agricultural services, where high safety and low cost are essential. The challenge lies in developing a complex control strategy to manage uncertainties from wind and its mathematical model.&#xA;Step 2. Learn the Key Details This project, as demonstrated in this video, focuses on creating advanced control mechanisms for a quad-rotor to operate effectively under uncertain conditions, such as varying wind forces and complex dynamics, while maintaining low operational costs and high safety standards.</description>
+    </item>
+  </channel>
+</rss>

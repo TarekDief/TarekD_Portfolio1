@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manufacturing on Tarek</title>
+    <link>http://localhost:1313/hugo-universal-theme/categories/manufacturing/</link>
+    <description>Recent content in Manufacturing on Tarek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-universal-theme/categories/manufacturing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REMOTE HEALTH MONITORING</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2021/08/01/remote-health-monitoring/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2021/08/01/remote-health-monitoring/</guid>
+      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:&#xA;categories = [&amp;quot;Testing&amp;quot;, &amp;quot;Embedded&amp;quot;, &amp;quot;Manufacturing&amp;quot; ,&amp;quot;Modeling and Control&amp;quot;, &amp;quot;Publications&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus.</description>
+    </item>
+    <item>
+      <title>X-06 airplane, PDAS LTD</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2021/08/01/x-06-airplane-pdas-ltd/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2021/08/01/x-06-airplane-pdas-ltd/</guid>
+      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:&#xA;categories = [&amp;quot;Testing&amp;quot;, &amp;quot;Embedded&amp;quot;, &amp;quot;Manufacturing&amp;quot; ,&amp;quot;Modeling and Control&amp;quot;, &amp;quot;Publications&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus.</description>
+    </item>
+    <item>
+      <title>DRONE EQUIED ROBOTIC ARM</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/10/02/drone-equied-robotic-arm/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/10/02/drone-equied-robotic-arm/</guid>
+      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&#xA;menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+    </item>
+    <item>
+      <title>FIXED WING WING</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/fixed-wing-wing/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/fixed-wing-wing/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
+    </item>
+    <item>
+      <title>INSTRUMENTED GLOVE DRONE</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/instrumented-glove-drone/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/instrumented-glove-drone/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
+    </item>
+    <item>
+      <title>SDG program</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/sdg-program/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/sdg-program/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
+    </item>
+    <item>
+      <title>SKYPULL system</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/skypull-system/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/skypull-system/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
+    </item>
+    <item>
+      <title>AUTONMOUS 3D PRINTED UAV</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/08/03/autonmous-3d-printed-uav/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/08/03/autonmous-3d-printed-uav/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/hugo-universal-theme/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>AUTONMOUS DRONE-ROVER</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/08/03/autonmous-drone-rover/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/08/03/autonmous-drone-rover/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/hugo-universal-theme/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Last mile delivery - McMaster, Canada</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/08/03/last-mile-delivery-mcmaster-canada/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/08/03/last-mile-delivery-mcmaster-canada/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/hugo-universal-theme/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Quad-rotor</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/08/03/quad-rotor/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/08/03/quad-rotor/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/hugo-universal-theme/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Kite power system</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/06/24/kite-power-system/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/06/24/kite-power-system/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    <item>
+      <title>HUMAN DETECTION OCTOCOPTER</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/1/01/01/human-detection-octocopter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/1/01/01/human-detection-octocopter/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become&#xA;▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+  </channel>
+</rss>
