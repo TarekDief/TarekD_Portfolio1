@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University of Alberta on Tarek</title>
+    <link>https://tarekdief.github.io/TarekD_Portfolio/tags/university-of-alberta/</link>
+    <description>Recent content in University of Alberta on Tarek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 21:29:20 +0200</lastBuildDate>
+    <atom:link href="https://tarekdief.github.io/TarekD_Portfolio/tags/university-of-alberta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REMOTE HEALTH MONITORING</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2021/04/01/remote-health-monitoring/</link>
+      <pubDate>Thu, 01 Apr 2021 21:29:20 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2021/04/01/remote-health-monitoring/</guid>
+      <description>Project Overview: PROTXX Wearable Sensor Technology Step 1. Understand the Objective The goal of this project is to develop user-friendly, wearable sensor technology for remote health monitoring of patients with neurological conditions. This technology aims to reduce hospital visits and COVID-19 risk by enabling remote care.&#xA;Step 2. Learn the Key Details Using technology designed by PROTXX, we will develop and validate algorithms for evaluating clinical outcomes, initially focusing on patients with Multiple Sclerosis (MS).</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>McMaster University on Tarek</title>
+    <link>https://tarekdief.github.io/TarekD_Portfolio/tags/mcmaster-university/</link>
+    <description>Recent content in McMaster University on Tarek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jul 2023 13:39:46 +0200</lastBuildDate>
+    <atom:link href="https://tarekdief.github.io/TarekD_Portfolio/tags/mcmaster-university/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Last mile delivery</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/07/03/last-mile-delivery-mcmaster-canada/</link>
+      <pubDate>Mon, 03 Jul 2023 13:39:46 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2023/07/03/last-mile-delivery-mcmaster-canada/</guid>
+      <description>Project Overview: UAV-Based Last-Mile Parcel Delivery Step 1. Understand the Objective The project aims to explore the use of UAVs (drones) for last-mile parcel delivery, which holds the potential to significantly reduce greenhouse gas (GHG) emissions. This solution is becoming increasingly relevant with the rise of e-commerce and the growing demand for same-day delivery.&#xA;Step 2. Learn the Key Details As highlighted in this LinkedIn post, UAV-based delivery systems promise to provide an efficient, sustainable alternative to traditional delivery methods by minimizing the carbon footprint associated with transportation.</description>
+    </item>
+  </channel>
+</rss>

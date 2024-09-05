@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyushu University on Tarek</title>
+    <link>https://tarekdief.github.io/TarekD_Portfolio/tags/kyushu-university/</link>
+    <description>Recent content in Kyushu University on Tarek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2019 13:50:46 +0200</lastBuildDate>
+    <atom:link href="https://tarekdief.github.io/TarekD_Portfolio/tags/kyushu-university/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kite power system</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2019/06/24/kite-power-system/</link>
+      <pubDate>Mon, 24 Jun 2019 13:50:46 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2019/06/24/kite-power-system/</guid>
+      <description>Project Overview: Kite Power System for Wind Energy Harvesting Step 1. Understand the Objective The aim of the kite power system is to demonstrate a new technology for harvesting wind energy with a significantly lower material and environmental footprint and a higher capacity factor than conventional wind turbines.&#xA;Step 2. Learn the Key Details This innovative approach, showcased in this video, explores using kites to harness wind energy more efficiently and sustainably.</description>
+    </item>
+  </channel>
+</rss>

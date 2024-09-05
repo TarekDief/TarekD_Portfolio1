@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UAE Uninversity on Tarek</title>
+    <link>http://localhost:1313/hugo-universal-theme/tags/uae-uninversity/</link>
+    <description>Recent content in UAE Uninversity on Tarek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-universal-theme/tags/uae-uninversity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIXED WING WING</title>
+      <link>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/fixed-wing-wing/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/hugo-universal-theme/blog/2015/09/17/fixed-wing-wing/</guid>
+      <description>Project Overview: Flying a 2.5-Meter Glider in Windy Conditions Step 1. Understand the Objective Flying a 2.5-meter glider in windy conditions presents a unique challenge and opportunity for both the pilot and the aircraft. The larger wingspan of this glider provides enhanced stability and control, crucial when navigating the unpredictability of strong winds.&#xA;Step 2. Learn the Key Details As demonstrated in this video, piloting a glider in gusty conditions requires skill and quick reflexes to maintain smooth flight.</description>
+    </item>
+  </channel>
+</rss>

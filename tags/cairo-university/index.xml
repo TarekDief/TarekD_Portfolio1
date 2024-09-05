@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cairo University on Tarek</title>
+    <link>https://tarekdief.github.io/TarekD_Portfolio/tags/cairo-university/</link>
+    <description>Recent content in Cairo University on Tarek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Aug 2014 13:39:46 +0200</lastBuildDate>
+    <atom:link href="https://tarekdief.github.io/TarekD_Portfolio/tags/cairo-university/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quad-rotor</title>
+      <link>https://tarekdief.github.io/TarekD_Portfolio/blog/2014/08/03/quad-rotor/</link>
+      <pubDate>Sun, 03 Aug 2014 13:39:46 +0200</pubDate>
+      <guid>https://tarekdief.github.io/TarekD_Portfolio/blog/2014/08/03/quad-rotor/</guid>
+      <description>Project Overview: Quad-Rotor VTOL Drone Control System Step 1. Understand the Objective The quad-rotor is a widely recognized VTOL (Vertical Take-Off and Landing) drone used in various applications, such as military surveillance and agricultural services, where high safety and low cost are essential. The challenge lies in developing a complex control strategy to manage uncertainties from wind and its mathematical model.&#xA;Step 2. Learn the Key Details This project, as demonstrated in this video, focuses on creating advanced control mechanisms for a quad-rotor to operate effectively under uncertain conditions, such as varying wind forces and complex dynamics, while maintaining low operational costs and high safety standards.</description>
+    </item>
+  </channel>
+</rss>
